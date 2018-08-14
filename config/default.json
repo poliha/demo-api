@@ -1,0 +1,23 @@
+{
+  "appName": "Demo API",
+  "port": 9000,
+  "allowedOrigins": "*",
+  "horizonUrl": "http://user-dev-003a.dev.stellar002.external.stellar-ops.com:8005",
+  "startingBalance": "20",
+  "assetCode": "RWF",
+  "destinationAmount": "500",
+  "issuer": {
+    "publicKey": "XX",
+    "privateKey": "XX" // NEVER do this in production, this is just a demo
+  },
+  "sender": {
+    "publicKey": "XX",
+    "privateKey": "XX" // NEVER do this in production, this is just a demo
+  },
+  "receiver": {
+    "publicKey": "XX",
+    "privateKey": "XX" // NEVER do this in production, this is just a demo
+  }
+
+
+}
