@@ -2,7 +2,7 @@
   "appName": "Demo API",
   "port": 9000,
   "allowedOrigins": "*",
-  "horizonUrl": "http://user-dev-003a.dev.stellar002.external.stellar-ops.com:8005",
+  "horizonUrl": "https://horizon-testnet.stellar.org",
   "startingBalance": "20",
   "assetCode": "RWF",
   "destinationAmount": "500",
